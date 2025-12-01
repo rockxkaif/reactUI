@@ -96,8 +96,4 @@ A collection of **modern, responsive, and beautifully animated React components*
 
 ---
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/ReactUI.git
-cd ReactUI
