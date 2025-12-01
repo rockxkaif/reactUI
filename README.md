@@ -2,7 +2,7 @@
 
 A collection of **modern, responsive, and beautifully animated React components** designed to elevate your UI with minimal effort.
 
-👉 **Live Demo:** https://react-ui-awesome.netlify.app
+👉 **Live Demo:** https:netlify.app
 
 ---
 
